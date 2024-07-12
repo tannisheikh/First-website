@@ -1,0 +1,41 @@
+*{
+margin: 0;
+padding: 0;
+}
+.about{
+color: white;
+text-align: center;
+background-color: darkblue;
+font-size: 30px;
+padding-top: 10px;
+padding-bottom: 20px;
+}
+.left{
+width: 50%;
+}
+.left img{
+width: 500px;
+padding-top: 40px;
+padding-bottom:40px ;
+padding-left: 60px;
+padding-right:20px;
+}
+.full{
+    background-color: blue;
+    display: flex;
+    color: white;
+    height: 520px;
+}
+.right-top{
+font-size:10px ;
+padding-top: 20px;
+padding-bottom: 13px; 
+}
+.right-mid{
+font-size:25px ;
+}
+.right-bottom{
+font-size: 18px;
+padding-top: 23px;
+padding-bottom:13px ;
+}
